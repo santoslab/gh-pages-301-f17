@@ -28,7 +28,7 @@ for programming directly in terms of logic.
 **Lectures**                                        Tuesday (T) & Thursday (U), 9:30am - 10:45am, |DUR1073|
 **Instructor**                                      `Robby <http://cs.ksu.edu/~robby>`__,
                                                     Office:       2181 |EngHall|,
-                                                    Office Hours: T 10:45-11:45am (or by appointment)
+                                                    Office Hours: T U 10:45-11:30am (or by appointment)
 **Teaching Assistant**                              Joshua Donnoe,
                                                     Office:       2206G |EngHall|,
                                                     Office Hours: TBD (or by appointment)
