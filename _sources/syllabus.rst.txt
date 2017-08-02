@@ -78,7 +78,7 @@ Instructor
 
 `Robby <http://cs.k-state.edu/~robby>`__,
 Office:       2181 |EngHall|,
-Office Hours: T 10:45-11:45am (or by appointment)
+Office Hours: T U 10:45-11:45am (or by appointment)
 
 
 Graduate Teaching Assistants
@@ -86,11 +86,11 @@ Graduate Teaching Assistants
 
 * Joshua Donnoe,
   Office:       2206G |EngHall|,
-  Office Hours: TBD (or by appointment)
+  Office Hours: W F 3-4pm (or by appointment)
 
 * George (Bud) LaVezzi,
   Office:       2206F |EngHall|,
-  Office Hours: TBD (or by appointment)
+  Office Hours: T U 3-4pm (or by appointment)
   
 
 Grading
