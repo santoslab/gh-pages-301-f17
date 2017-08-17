@@ -11,6 +11,8 @@ Tools
 
 ----
 
+.. _logika:
+
 Sireum Logika
 *************
 
@@ -36,11 +38,12 @@ In summary,
 * complete the "quick start" guides above for installing/configuring and confirming that you can use Logika as needed for class activities.
 
 If you want to do a custom installation of Logika (e.g., install from sources, install IVE into an existing installation of IntelliJ,
-use the Logika CLI, etc.), you can find how to do that in the complete `Logika Documentation <http://logika.sireum.org/doc/index.html>`__
+use the Logika CLI, etc.), you can find how to do that in the complete `Logika Documentation <http://logika.sireum.org/doc/index.html>`__.
 
 
 Z3
 **
+
 Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
 developed at the Research in Software Engineering (RiSE) group in Microsoft
 Research.
@@ -61,41 +64,39 @@ You can find out more about Z3 using the links below:
 
 * `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
 
+
+.. _using-logika:
+
 Using Logika on your Own Machine
 ********************************
 
 Windows
 =======
 
-Installing
+* `Installing Sireum IVE <https://k-state.instructure.com/files/4481646/>`__
 
-* `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539890/download?wrap=1>`__ (must authenticate with KSOL to watch video)
+  (alternatively) Read the instructions for Windows in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-windows>`__ of the Logika documentation
 
-* (alternatively) Read the instructions for Windows in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-windows>`__ of the Logika documentation
-
-.. Downloading CIS 301 Examples Used in Lectures
-   - `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
+* `Downloading CIS 301 Examples Used in Lectures <https://k-state.instructure.com/files/4481633/>`__
 
 Mac
 ===
 
-Installing
+* Read the instructions for Mac installation in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-macos>`__ of the Logika documentation
 
-* Read the instructions for Mac in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-macos>`__ of the Logika documentation
+* `Downloading CIS 301 Examples Used in Lectures <https://k-state.instructure.com/files/4481633/>`__
 
-.. Downloading CIS 301 Examples Used in Lectures
-   - Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Mac `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
+  Follow the concepts in this video related to obtaining the examples (they may be slightly different for Mac).
 
 
 Linux
 =====
 
-Installing
+* Read the instructions for Linux installation in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-linux>`__ of the Logika documentation
 
-* Read the instructions for Linux in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-linux>`__ of the Logika documentation
+* `Downloading CIS 301 Examples Used in Lectures <https://k-state.instructure.com/files/4481633/>`__
 
-.. Downloading CS 301 Examples Used in Lectures
-   - Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Linux `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
+  Follow the concepts in this video related to obtaining the examples (they may be slightly different for Linux).
 
 
 Using Logika via the K-State CS Laboratories
@@ -109,6 +110,12 @@ servers corresponding to lab machines).
 CS Windows Machines
 ===================
 
+Quick Start Videos:
+
+* `Running Sireum IVE <https://k-state.instructure.com/files/4481642/>`__
+
+* `Downloading CIS 301 Examples Used in Lectures <https://k-state.instructure.com/files/4481639/>`__
+
 In a CS Windows machine (including Windows RDP server ``remote.win.cs.ksu.edu``),
 Sireum IVE can be launched by using the start menu item ``Sireum`` (or ``Sireum32``
 for the 32-bit version) or by issuing the command-line ``idea64`` or ``idea``.
@@ -120,6 +127,10 @@ The absolute path to ``SIREUM_HOME`` is ``\\files.cs.ksu.edu\santos\sireum\win64
 CS Linux Machines
 =================
 
+Quick Start Video:
+
+* `Downloading CIS 301 Examples Used in Lectures <https://k-state.instructure.com/files/4481607/>`__
+
 In a CS Linux machine (including using ``ssh -X`` or using
 the faster remote desktop protocal `X2Go <wiki.x2go.org/>`__ to ``cslinux.cs.ksu.edu``,
 Sireum IVE can be launched by issuing the command-line ``idea``.
@@ -130,7 +141,7 @@ The absolute path to ``SIREUM_HOME`` is ``/research/santos/sireum/linux64``.
 CS RDP macOS Server
 ===================
 
-In the CS RDP macOS server ``remote-mac.cs.ksu.edu`,
+In the CS RDP macOS server ``remote-mac.cs.ksu.edu``,
 Sireum IVE can be launched by double-clicking the ``Sireum`` icon in ``/Applications``
 or by issuing the command-line: ``open /Applications/Sireum.app``.
 Sireum CLI can be launched by issuing the command-line ``sireum``.
