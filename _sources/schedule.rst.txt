@@ -66,7 +66,7 @@ Schedule
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
        * Homework 1,
-         **Deadline: September 6, 2016, 11:59pm US Central**
+         **Deadline: September 6, 2017, 11:59pm US Central**
 
    * - 2. U: Aug 31
      - * Introduction to Propositional Logic
@@ -84,9 +84,9 @@ Schedule
      - * Automatic Reasoning of Propositional Logic
          [example,
          exercise]
-     - * Reading: Applications of Propositional Logic to Program Proving (up to Section 7.3)
+     - * Reading: `Applications of Propositional Logic to Program Proving (up to Section 7.3) <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__
        * Homework 2,
-         **Deadline: September 18, 2016, 11:59pm US Central**
+         **Deadline: September 18, 2017, 11:59pm US Central**
    * - 4. T: Sep 12
      - * Introduction to Natural Deduction
        * Natural Deduction -- And
@@ -106,7 +106,7 @@ Schedule
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
        * Homework 3,
-         **Deadline: September 29, 2016, 11:59pm US Central**
+         **Deadline: September 29, 2017, 11:59pm US Central**
    * - 5. U: Sep 21
      - * Natural Deduction -- Negation
          [examples,
@@ -143,7 +143,7 @@ Schedule
          FYTD]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * Homework 4,
-         **Deadline: October 23, 2016, 11:59pm US Central**
+         **Deadline: October 23, 2017, 11:59pm US Central**
    * - 9. T: Oct 17
      - * Algebra
          [Z3 examples]
@@ -162,7 +162,7 @@ Schedule
          conditional #2]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * Homework 5,
-         **Deadline: November 3, 2016, 11:59pm US Central**
+         **Deadline: November 3, 2017, 11:59pm US Central**
    * - 10. U: Oct 26
      - * Programming Logic for Conditionals and Loops
          [loop #1,
@@ -189,7 +189,7 @@ Schedule
          [references,
          study guides]
      - * Homework 6,
-         **Deadline: November 17, 2016, 11:59pm US Central**
+         **Deadline: November 17, 2017, 11:59pm US Central**
    * - 12. U: Nov 9
      - * Functions and Procedures
          [examples]
@@ -214,7 +214,7 @@ Schedule
          #3,
          #4]
      - * Homework 7,
-         **Deadline: December 10, 2016, 11:59pm US Central**
+         **Deadline: December 10, 2017, 11:59pm US Central**
    * - 14. U: Nov 30
      - * Termination
          [examples,

@@ -114,8 +114,8 @@ Homeworks are due almost every week and are to be submitted through
 `GitHub <https://github.com/ksu-cis-301>`__.
 Each student will be given a private repository that can be used to commit
 homework assignments.
-Assignments that are late will not be graded (based the git log),
-unless in case of documented medical or family emergencies.
+Assignments that are late will not be graded (based on the git log),
+unless in case of official school business or documented medical/family emergencies.
 
 
 Exams
@@ -243,5 +243,5 @@ permission of the instructor teaching this course.
 Acknowledgment
 **************
 
-The course material, including this syllabus, is adapted from the one taught by 
+The course material, including this syllabus, are adapted from the one taught by
 |David A. Schmidt|, |Torben Amtoft|, and |John Hatcliff|.
