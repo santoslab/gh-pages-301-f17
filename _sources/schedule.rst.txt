@@ -45,11 +45,11 @@ Schedule
      - Lecture
      - Remarks
    * - 1. T: Aug 22
-     - * Course Administration
-       * Introduction: Why Bother?
-         [study guide]
+     - * `Course Administration <https://drive.google.com/open?id=0B3opDhlww1AXQmhfRE5uWGQyVWs>`__
+       * `Introduction: Why Bother? <https://drive.google.com/open?id=0B3opDhlww1AXTS1vcWpGdE5YV00>`__
+         [`study guide <https://drive.google.com/open?id=0B3opDhlww1AXVmhyaWZHZXBtY2c>`__]
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
-       * Tool: :ref:`Install <using-logika>` :ref:`Sireum/Logika <tools>` (see quick start videos)
+       * :ref:`Tools: Install Sireum/Logika <tools>` (see quick start videos)
    * - 1. U: Aug 24
      - * Circuits and Truth Tables
          [examples,
