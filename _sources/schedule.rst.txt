@@ -13,9 +13,11 @@ Schedule
 
 **Lecture:** T U 9:30am - 10:45am, |DUR1073|
 
-.. **Links:**
+**Links:**
 
-.. * `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
+* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXMEI2anFzQVlyeXM>`__
+
+* `Study Guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__
 
 .. * Examples:
 
@@ -26,8 +28,6 @@ Schedule
    * `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
    * `Program Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__
-
-.. * `Study Guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__
 
    * `More ... <https://github.com/ksu-cis-301/301f17/tree/master/examples>`__
 

@@ -70,6 +70,8 @@ You can find out more about Z3 using the links below:
 Using Logika on your Own Machine
 ********************************
 
+Quick start videos and instructions below.
+
 Windows
 =======
 
