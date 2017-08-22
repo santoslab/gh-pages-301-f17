@@ -226,9 +226,9 @@ Other Administrative Issues
   this course to or by any person or commercial firm without the express written
   permission of the professor teaching this course.
 
-For a more complete discussion of these issues see the course policies for the
-College of Engineering at Kansas State University: 
-http://www.cis.ksu.edu/resources/intradept/syllabuspolicies.
+.. For a more complete discussion of these issues see the course policies for the
+   College of Engineering at Kansas State University:
+   http://www.cis.ksu.edu/resources/intradept/syllabuspolicies.
 
 
 Notice of Copyright
