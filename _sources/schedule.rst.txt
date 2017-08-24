@@ -51,15 +51,13 @@ Schedule
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
        * :ref:`Tools: Install Sireum/Logika <tools>` (see quick start videos)
    * - 1. U: Aug 24
-     - * Circuits and Truth Tables
-         [examples,
-         exercise,
-         study guide]
+     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXdnZFWnMzWGhQN0U>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXVmhyaWZHZXBtY2c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
    * - 2. T: Aug 29
-     - * Circuits and Truth Tables
-         [examples,
-         exercise,
+     - * Introduction to Propositional Logic
+         [example,
          study guide]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
@@ -69,34 +67,28 @@ Schedule
          **Deadline: September 6, 2017, 11:59pm US Central**
 
    * - 2. U: Aug 31
-     - * Introduction to Propositional Logic
-         [example,
-         study guide]
-     - * Reading:
-         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
-         * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
-   * - 3. T: Sep 5
      - * English Language to Propositional Logic
          [exercise]
-     - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
-         (up to Section 3 on Propositional Logic)
-   * - 3. U: Sep 7
+     - * Reading:
+         (a) `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__,
+         (b) `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
+   * - 3. T: Sep 5
      - * Automatic Reasoning of Propositional Logic
          [example,
          exercise]
+     - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
+         (up to Section 3 on Propositional Logic)
+   * - 3. U: Sep 7
+     - * Introduction to Natural Deduction
      - * Reading: `Applications of Propositional Logic to Program Proving (up to Section 7.3) <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__
        * Homework 2,
          **Deadline: September 18, 2017, 11:59pm US Central**
    * - 4. T: Sep 12
-     - * Introduction to Natural Deduction
-       * Natural Deduction -- And
+     - * Natural Deduction -- And
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 4. U: Sep 14
-     - * Natural Deduction -- And
-         [examples,
-         FYTD]
-       * Natural Deduction -- Or
+     - * Natural Deduction -- Or
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 19
