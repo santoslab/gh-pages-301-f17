@@ -56,9 +56,9 @@ Schedule
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXVmhyaWZHZXBtY2c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
    * - 2. T: Aug 29
-     - * Introduction to Propositional Logic
-         [example,
-         study guide]
+     - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXam9xUy1DVHdqUVE>`__
+         [`fytd #2 <https://github.com/ksu-cis-301/301f17/blob/master/fytds/intro-to-prop-logic-2.logika>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXc0xpQVVFX1ZEejg>`__]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
