@@ -30,10 +30,10 @@ for programming directly in terms of logic.
                                                     Office:       2181 |EngHall|,
                                                     Office Hours: T U 10:45-11:30am (or by appointment)
 **Teaching Assistant**                              Joshua Donnoe,
-                                                    Office:       1117 |EngHall|,
+                                                    Office:       TBD,
                                                     Office Hours: W F 3-4pm (or by appointment)
 **Teaching Assistant**                              George (Bud) LaVezzi,
-                                                    Office:       1117 |EngHall|,
+                                                    Office:       TBD,
                                                     Office Hours: T U 3-4pm (or by appointment)
 **E-mail**                                          ``help-301@santoslab.org`` (for quick questions and appointments)
                          

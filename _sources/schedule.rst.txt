@@ -63,7 +63,7 @@ Schedule
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
-       * Homework 1,
+       * `Homework 1 <https://github.com/ksu-cis-301/301f17/tree/master/homework/hw1>`__,
          **Deadline: September 6, 2017, 11:59pm US Central**
 
    * - 2. U: Aug 31
