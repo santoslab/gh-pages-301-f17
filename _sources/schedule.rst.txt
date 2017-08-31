@@ -19,16 +19,16 @@ Schedule
 
 * `Study Guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__
 
+* Examples:
+
+  * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
+
 * Tools: `Logika <http://logika.sireum.org/doc>`__,
   `IntelliJ <https://www.jetbrains.com/help/idea>`__ (`Git Integration <https://www.jetbrains.com/help/idea/using-git-integration.html>`__),
   `Z3 <http://rise4fun.com/z3/tutorial>`__,
   `Git <https://git-scm.com/book/en/v2>`__
 
-.. * Examples:
-
-   * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
-
-   * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
+.. * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
 
    * `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
