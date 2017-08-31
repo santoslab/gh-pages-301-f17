@@ -15,7 +15,7 @@ Schedule
 
 **Links:**
 
-* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXMEI2anFzQVlyeXM>`__
+* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXMEI2anFzQVlyeXM>`__ (`Exercises <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__)
 
 * `Study Guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__
 
@@ -72,8 +72,8 @@ Schedule
          **Deadline: September 6, 2017, 11:59pm US Central**
 
    * - 2. U: Aug 31
-     - * English Language to Propositional Logic
-         [exercise]
+     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXM05DQTk1VF9GRnc>`__
+         [`exercise <https://k-state.instructure.com/courses/43265/files/folder/Slides?preview=4589412>`__]
      - * Reading:
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__,
