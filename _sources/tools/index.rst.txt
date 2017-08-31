@@ -28,7 +28,7 @@ There are two ways of getting set up to use Logika (actually, these methods also
 
 * [CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines (see below for different OS options).
 
-Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
+Logika can be used in a nice `IntelliJ <https://www.jetbrains.com/idea/>`__-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
 all your classroom exercises and homework).
 There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI).
 

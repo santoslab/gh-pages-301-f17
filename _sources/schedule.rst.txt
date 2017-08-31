@@ -19,6 +19,11 @@ Schedule
 
 * `Study Guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__
 
+* Tools: `Logika <http://logika.sireum.org/doc>`__,
+  `IntelliJ <https://www.jetbrains.com/help/idea>`__ (`Git Integration <https://www.jetbrains.com/help/idea/using-git-integration.html>`__),
+  `Z3 <http://rise4fun.com/z3/tutorial>`__,
+  `Git <https://git-scm.com/book/en/v2>`__
+
 .. * Examples:
 
    * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
@@ -70,8 +75,9 @@ Schedule
      - * English Language to Propositional Logic
          [exercise]
      - * Reading:
-         (a) `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__,
-         (b) `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
+
+         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__,
+         * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 5
      - * Automatic Reasoning of Propositional Logic
          [example,
