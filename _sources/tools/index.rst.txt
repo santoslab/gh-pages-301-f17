@@ -123,7 +123,7 @@ Sireum IVE can be launched by using the start menu item ``Sireum`` (or ``Sireum3
 for the 32-bit version) or by issuing the command-line ``idea64`` or ``idea``.
 Sireum CLI can be launched by issuing the command-line ``sireum``.
 
-The absolute path to ``SIREUM_HOME`` is ``\\files.cs.ksu.edu\santos\sireum\win64``.
+The absolute path to ``SIREUM_HOME`` is ``\\files.cs.ksu.edu\santos\sireum\win64\Sireum``.
 
 
 CS Linux Machines
@@ -137,7 +137,7 @@ In a CS Linux machine (including using ``ssh -X`` or using
 the faster remote desktop protocal `X2Go <wiki.x2go.org/>`__ to ``cslinux.cs.ksu.edu``,
 Sireum IVE can be launched by issuing the command-line ``idea``.
 
-The absolute path to ``SIREUM_HOME`` is ``/research/santos/sireum/linux64``.
+The absolute path to ``SIREUM_HOME`` is ``/research/santos/sireum/linux64/Sireum``.
 
 
 CS RDP macOS Server
