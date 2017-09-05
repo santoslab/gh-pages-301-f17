@@ -15,19 +15,18 @@ Schedule
 
 **Links:**
 
-* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXMEI2anFzQVlyeXM>`__ (`Exercises <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__)
+* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXMEI2anFzQVlyeXM>`__
 
 * `Study Guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__
 
 * Examples:
-
-  * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
-
-  * `Z3 <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__
+  `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+  `Z3 <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__
 
 * Exercises:
+  `Slides <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__
 
-  * `Slides <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__
+* `For You To Dos (FYTDs) <https://github.com/ksu-cis-301/301f17/blob/master/fytds/>`__
 
 * Tools: `Logika <http://logika.sireum.org/doc>`__,
   `IntelliJ <https://www.jetbrains.com/help/idea>`__ (`Git Integration <https://www.jetbrains.com/help/idea/using-git-integration.html>`__),
