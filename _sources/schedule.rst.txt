@@ -23,6 +23,8 @@ Schedule
 
   * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
 
+  * `Z3 <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__
+
 * Tools: `Logika <http://logika.sireum.org/doc>`__,
   `IntelliJ <https://www.jetbrains.com/help/idea>`__ (`Git Integration <https://www.jetbrains.com/help/idea/using-git-integration.html>`__),
   `Z3 <http://rise4fun.com/z3/tutorial>`__,
