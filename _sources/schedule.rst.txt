@@ -80,8 +80,8 @@ Schedule
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 5
      - * Automatic Reasoning of Propositional Logic
-         [example,
-         exercise]
+         [examples,
+         `Z3 Online <http://rise4fun.com/z3>`__]
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 7
