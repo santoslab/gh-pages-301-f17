@@ -79,9 +79,9 @@ Schedule
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__,
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 5
-     - * Automatic Reasoning of Propositional Logic
-         [examples,
-         Z3 `Tutorials <http://rise4fun.com/z3/tutorial>`__ & `Online <http://rise4fun.com/z3>`__]
+     - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXaVBLOVB2UUp1X2c>`__
+         [`examples <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__,
+         Z3 `Tutorial <http://rise4fun.com/z3/tutorial>`__ & `Online <http://rise4fun.com/z3>`__]
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 7
