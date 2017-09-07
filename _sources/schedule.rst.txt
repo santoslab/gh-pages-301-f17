@@ -98,15 +98,11 @@ Schedule
        * `Homework 2 <https://github.com/ksu-cis-301/301f17/tree/master/homework/hw2>`__,
          **Deadline: September 18, 2017, 11:59pm US Central**
    * - 4. T: Sep 12
-     - * Natural Deduction -- And
-         [examples]
-       * Natural Deduction -- Or
+     - * Natural Deduction -- Or
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 4. U: Sep 14
-     - * Natural Deduction -- Or
-         [examples]
-       * Natural Deduction -- Implies
+     - * Natural Deduction -- Implies
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 19
