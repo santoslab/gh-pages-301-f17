@@ -106,9 +106,7 @@ Schedule
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 19
-     - * Natural Deduction -- Implies
-         [examples]
-       * Natural Deduction -- Negation
+     - * Natural Deduction -- Negation
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
        * Homework 3,
