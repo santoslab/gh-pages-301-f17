@@ -113,7 +113,7 @@ Schedule
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
        * Homework 3,
-         **Deadline: September 29, 2017, 11:59pm US Central**
+         **Deadline: September 27, 2017, 11:59pm US Central**
    * - 5. U: Sep 21
      - * Natural Deduction -- Negation
          [examples,
@@ -130,7 +130,7 @@ Schedule
    * - 7. T: Oct 3
      - * Exam 1
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXU1V6VjdkVTdFTW8>`__,
-         study guides]
+         `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      -
    * - 7. U: Oct 5
      - * Quantifications by Example
