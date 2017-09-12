@@ -126,7 +126,7 @@ Schedule
      -
    * - 7. T: Oct 3
      - * Exam 1
-         [references,
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXU1V6VjdkVTdFTW8>`__,
          study guides]
      -
    * - 7. U: Oct 5
