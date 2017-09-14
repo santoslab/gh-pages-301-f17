@@ -103,10 +103,9 @@ Schedule
          `fytd #1 <https://github.com/ksu-cis-301/301f17/blob/master/fytds/NatDed-05-Natural-Deduction--Or-1.logika>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 4. U: Sep 14
-     - * Natural Deduction -- Implies
-         [examples]
-       * Natural Deduction -- Negation
-         [examples]
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXS0lvRS1fTXZVQkU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__]
+       * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXb0pQNFdOcXdHam8>`__
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 19
      - * Natural Deduction -- Negation
@@ -118,12 +117,13 @@ Schedule
      - * Natural Deduction -- Negation
          [examples,
          FYTD]
-     -
+       * Curry-Howard Isomorphism
+         [examples]
+     - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. T: Sep 26
      - * Curry-Howard Isomorphism
          [examples]
-     - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
-       * Exercises
+     -
    * - 6. U: Sep 28
      - * Review for Exam 1
      -
