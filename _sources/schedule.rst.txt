@@ -137,8 +137,7 @@ Schedule
    * - 8. U: Oct 12
      - * Algebra
          [Z3 examples]
-       * Programming Logic for Assignment
-         [examples]
+       * Introduction to Programming Logic
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
    * - 9. T: Oct 17
      - * Exam 1 Discussion
