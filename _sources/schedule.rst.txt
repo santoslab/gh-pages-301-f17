@@ -21,30 +21,18 @@ Schedule
 
 * Examples:
   `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
-  `Z3 <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__,
+  `Z3 <https://k-state.instructure.com/users/12625/files/4717312/download?download_frd=1>`__,
   `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
 
 * Exercises:
   `Slides <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__
 
-* `For You To Dos (FYTDs) <https://github.com/ksu-cis-301/301f17/blob/master/fytds/>`__
+* `For You To Dos (FYTDs) <https://k-state.instructure.com/courses/43265/files/folder/FYTDs>`__
 
 * Tools: `Logika <http://logika.sireum.org/doc>`__,
   `IntelliJ <https://www.jetbrains.com/help/idea>`__ (`Git Integration <https://www.jetbrains.com/help/idea/using-git-integration.html>`__),
   `Z3 <http://rise4fun.com/z3/tutorial>`__,
   `Git <https://git-scm.com/book/en/v2>`__
-
-.. * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
-
-   * `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
-
-   * `Program Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__
-
-   * `More ... <https://github.com/ksu-cis-301/301f17/tree/master/examples>`__
-
-   * `Exercises <https://github.com/ksu-cis-301/301f17/tree/master/exercises/>`__
-
-   * `FYTDs <https://github.com/ksu-cis-301/301f17/tree/master/fytds>`__
 
 ----
 
@@ -68,13 +56,13 @@ Schedule
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
    * - 2. T: Aug 29
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXam9xUy1DVHdqUVE>`__
-         [`fytd #2 <https://github.com/ksu-cis-301/301f17/blob/master/fytds/intro-to-prop-logic-2.logika>`__,
+         [`fytd #2 <https://k-state.instructure.com/files/4717413/download?download_frd=1>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXc0xpQVVFX1ZEejg>`__]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
-       * `Homework 1 <https://github.com/ksu-cis-301/301f17/tree/master/homework/hw1>`__,
+       * `Homework 1 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw1>`__,
          **Deadline: September 7, 2017, 11:59pm US Central**
 
    * - 2. U: Aug 31
@@ -86,7 +74,7 @@ Schedule
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 5
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXaVBLOVB2UUp1X2c>`__
-         [`examples <https://github.com/ksu-cis-301/301f17/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt2>`__,
+         [`examples <https://k-state.instructure.com/users/12625/files/4717312/download?download_frd=1>`__,
          Z3 `Tutorial <http://rise4fun.com/z3/tutorial>`__ & `Online <http://rise4fun.com/z3>`__]
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
@@ -95,12 +83,12 @@ Schedule
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXNktES3laUmgxblU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (up to Section 7.3) <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__
-       * `Homework 2 <https://github.com/ksu-cis-301/301f17/tree/master/homework/hw2>`__,
+       * `Homework 2 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw2>`__,
          **Deadline: September 18, 2017, 11:59pm US Central**
    * - 4. T: Sep 12
      - * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXWVJKQzlxY0tqUlE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__,
-         `fytd #1 <https://github.com/ksu-cis-301/301f17/blob/master/fytds/NatDed-05-Natural-Deduction--Or-1.logika>`__]
+         `fytd #1 <https://k-state.instructure.com/files/4717315/download?download_frd=1>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 4. U: Sep 14
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXS0lvRS1fTXZVQkU>`__
@@ -111,7 +99,7 @@ Schedule
      - * Natural Deduction -- Negation
          [examples]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
-       * Homework 3,
+       * `Homework 3 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw3>`__,
          **Deadline: September 27, 2017, 11:59pm US Central**
    * - 5. U: Sep 21
      - * Natural Deduction -- Negation
