@@ -103,12 +103,14 @@ Schedule
        * `Homework 3 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw3>`__,
          **Deadline: September 27, 2017, 11:59pm US Central**
    * - 5. U: Sep 21
-     - * Curry-Howard Isomorphism
-         [examples]
+     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXeXVoNmxKUmJxYlE>`__
+         [examples:
+         `java <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curryhoward/CurryHowardIsomorphism.java>`__,
+         `scala <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curryhoward/curry-howard-isomorphism.sc>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. T: Sep 26
-     -
-     -
+     - * **No Lecture**
+     - * *Instructor Office Hours: 9:30-11:30am*
    * - 6. U: Sep 28
      - * Review for Exam 1
      -
