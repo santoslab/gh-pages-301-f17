@@ -107,8 +107,7 @@ Schedule
          [examples]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. T: Sep 26
-     - * Curry-Howard Isomorphism
-         [examples]
+     -
      -
    * - 6. U: Sep 28
      - * Review for Exam 1
