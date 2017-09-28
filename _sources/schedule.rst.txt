@@ -113,7 +113,7 @@ Schedule
      - * *Instructor Office Hours: 9:30-11:30am*
    * - 6. U: Sep 28
      - * `Review for Exam 1 <https://k-state.instructure.com/files/4788191>`__
-         [`exercises <https://k-state.instructure.com/files/4788196>`__]
+         [`exercises <https://k-state.instructure.com/files/4788286>`__]
      -
    * - 7. T: Oct 3
      - * Exam 1
