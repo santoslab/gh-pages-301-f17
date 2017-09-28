@@ -121,7 +121,7 @@ Schedule
      -
    * - 7. U: Oct 5
      - * Quantifications & Predicates by Example
-         [java]
+         [scala, java]
        * Predicate Logic
          [examples,
          Z3 examples,
