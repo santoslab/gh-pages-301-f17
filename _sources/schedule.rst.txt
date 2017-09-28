@@ -120,15 +120,15 @@ Schedule
          `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      -
    * - 7. U: Oct 5
-     - * Quantifications by Example
+     - * Quantifications & Predicates by Example
          [java]
-       * Introduction to Predicate Logic
+       * Predicate Logic
          [examples,
          Z3 examples,
          FYTD]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 10
-     - * Introduction to Predicate Logic
+     - * Predicate Logic
          [examples,
          Z3 examples,
          FYTD]
