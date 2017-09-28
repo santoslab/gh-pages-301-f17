@@ -124,14 +124,12 @@ Schedule
          [scala, java]
        * Predicate Logic
          [examples,
-         Z3 examples,
-         FYTD]
+         Z3 examples]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 10
      - * Predicate Logic
          [examples,
-         Z3 examples,
-         FYTD]
+         Z3 examples]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * Homework 4,
          **Deadline: October 18, 2017, 11:59pm US Central**
