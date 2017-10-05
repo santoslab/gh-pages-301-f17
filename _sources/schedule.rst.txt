@@ -156,7 +156,7 @@ Schedule
          conditional #2]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * Homework 5,
-         **Deadline: November 3, 2017, 11:59pm US Central**
+         **Deadline: November 1, 2017, 11:59pm US Central**
    * - 10. U: Oct 26
      - * Programming Logic for Conditionals and Loops
          [loop #1,
@@ -180,8 +180,8 @@ Schedule
      -
    * - 12. T: Nov 7
      - * Exam 2
-         [references,
-         study guides]
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXSWNZQzhBajdHNUk>`__,
+         `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      - * Homework 6,
          **Deadline: November 17, 2017, 11:59pm US Central**
    * - 12. U: Nov 9
