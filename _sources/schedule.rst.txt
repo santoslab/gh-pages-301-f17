@@ -123,9 +123,10 @@ Schedule
      -
    * - 7. U: Oct 5
      - * Quantifications & Predicates by Example
-         [scala, java]
-       * Predicate Logic
-         [examples,
+         [`scala <https://k-state.instructure.com/files/4847294/download?download_frd=1>`__,
+         `java <https://k-state.instructure.com/files/4847293>`__]
+       * `Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXZk5IX1BlSnFTOXM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
          Z3 examples]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 10
