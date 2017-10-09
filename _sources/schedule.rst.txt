@@ -143,15 +143,15 @@ Schedule
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
    * - 9. T: Oct 17
      - * Exam 1 Discussion
-     -
+       * Programming Logic for Assignment
+         [examples]
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 9. U: Oct 19
      - * Programming Logic for Assignment
          [examples]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 10. T: Oct 24
-     - * Programming Logic for Assignment
-         [examples]
-       * Programming Logic for Conditionals and Loops
+     - * Programming Logic for Conditionals and Loops
          [conditional #1,
          conditional #2]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
