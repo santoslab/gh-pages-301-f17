@@ -134,7 +134,7 @@ Schedule
          [examples,
          Z3 examples]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
-       * Homework 4,
+       * `Homework 4 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw4>`__,
          **Deadline: October 18, 2017, 11:59pm US Central**
    * - 8. U: Oct 12
      - * Algebra
