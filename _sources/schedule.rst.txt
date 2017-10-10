@@ -22,7 +22,8 @@ Schedule
 * Examples:
   `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
   `Z3 <https://k-state.instructure.com/users/12625/files/4717312/download?download_frd=1>`__,
-  `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
+  `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__,
+  `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
 * Exercises:
   `Slides <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__
