@@ -127,12 +127,12 @@ Schedule
          `java <https://k-state.instructure.com/files/4847293>`__]
        * `Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXZk5IX1BlSnFTOXM>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
-         Z3 examples]
+         `Z3 examples <https://k-state.instructure.com/courses/43265/files/folder/Examples/NatDed-09-Predicate-Logic-Z3>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 10
-     - * Predicate Logic
-         [examples,
-         Z3 examples]
+     - * `Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXZk5IX1BlSnFTOXM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://k-state.instructure.com/courses/43265/files/folder/Examples/NatDed-09-Predicate-Logic-Z3>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * `Homework 4 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw4>`__,
          **Deadline: October 18, 2017, 11:59pm US Central**
