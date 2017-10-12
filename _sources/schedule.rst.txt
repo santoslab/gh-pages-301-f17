@@ -138,12 +138,16 @@ Schedule
        * `Homework 4 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw4>`__,
          **Deadline: October 18, 2017, 11:59pm US Central**
    * - 8. U: Oct 12
-     - * Algebra
-         [Z3 examples]
-       * Introduction to Programming Logic
+     - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXN1lDeHcwUUJiLXc>`__
+         [`Z3 examples <https://k-state.instructure.com/files/4891708/download?download_frd=1>`__]
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
+       * Propositional Logic as Predicate Logic
+         [examples: `#1 <https://k-state.instructure.com/files/4891763/download?download_frd=1>`__,
+         `#2 <https://k-state.instructure.com/files/4891765/download?download_frd=1>`__]
+       * `Predicate Logic Exercise <https://k-state.instructure.com/files/4891713/download?download_frd=1>`__
    * - 9. T: Oct 17
      - * Exam 1 Discussion
+       * Introduction to Programming Logic
        * Programming Logic for Assignment
          [examples]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
