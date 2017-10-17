@@ -25,8 +25,7 @@ Schedule
   `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__,
   `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
-* Exercises:
-  `Slides <https://k-state.instructure.com/courses/43265/files/folder/Slides>`__
+* `Exercises <https://k-state.instructure.com/courses/43265/files/folder/Exercises>`__
 
 * `For You To Dos (FYTDs) <https://k-state.instructure.com/courses/43265/files/folder/FYTDs>`__
 
@@ -117,9 +116,8 @@ Schedule
          [`exercises <https://k-state.instructure.com/files/4788286>`__: `solutions <https://k-state.instructure.com/files/4806761>`__]
      -
    * - 7. T: Oct 3
-     - * `Exam 1 <https://k-state.instructure.com/courses/43265/files/folder/Exams?preview=4820935>`__
-         [`#4 circuit <https://k-state.instructure.com/courses/43265/files/folder/Exams?preview=4820934>`__,
-         `references <https://drive.google.com/open?id=0B3opDhlww1AXU1V6VjdkVTdFTW8>`__,
+     - * `Exam 1 <https://k-state.instructure.com/courses/43265/files/folder/Exams/exam1>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXU1V6VjdkVTdFTW8>`__,
          `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      -
    * - 7. U: Oct 5
