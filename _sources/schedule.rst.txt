@@ -146,11 +146,11 @@ Schedule
    * - 9. T: Oct 17
      - * Exam 1 Discussion
        * `Introduction to Programming Logic <https://drive.google.com/open?id=0B3opDhlww1AXNktsb2xfMzliM1E>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual>`__: intro-*.logika]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 9. U: Oct 19
-     - * Programming Logic for Assignment
-         [examples]
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXbUFkS3hJYWhmNFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual>`__: assignment-*.logika]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 10. T: Oct 24
      - * Programming Logic for Conditionals and Loops
