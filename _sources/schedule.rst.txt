@@ -155,21 +155,20 @@ Schedule
    * - 10. T: Oct 24
      - * Programming Logic for Conditionals and Loops
          [conditional #1,
-         conditional #2]
+         conditional #2,
+         loop #1]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * Homework 5,
          **Deadline: November 1, 2017, 11:59pm US Central**
    * - 10. U: Oct 26
      - * Programming Logic for Conditionals and Loops
-         [loop #1,
-         loop #2]
-     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
-   * - 11. T: Oct 31
-     - * Programming Logic for Conditionals and Loops
-         [loop invariants recipe,
+         [loop #2,
+         loop invariants recipe,
          auto,
          symexe]
-       * Sequences
+     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
+   * - 11. T: Oct 31
+     - * Sequences
          [#1,
          #2,
          #3 (manual),
