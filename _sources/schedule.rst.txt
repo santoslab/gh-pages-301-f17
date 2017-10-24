@@ -153,10 +153,10 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual>`__: assignment-*.logika]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 10. T: Oct 24
-     - * Programming Logic for Conditionals and Loops
-         [conditional #1,
-         conditional #2,
-         loop #1,
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXRHQ3LW92TEY0bDg>`__
+         [`conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
+         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__,
+         `loop #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-1.logika>`__,
          `loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXeXByX3VKcU0tSFE>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * `Homework 5 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw5>`__,
