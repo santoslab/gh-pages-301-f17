@@ -156,14 +156,14 @@ Schedule
      - * Programming Logic for Conditionals and Loops
          [conditional #1,
          conditional #2,
-         loop #1]
+         loop #1,
+         `loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXeXByX3VKcU0tSFE>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
-       * Homework 5,
+       * `Homework 5 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw5>`__,
          **Deadline: November 1, 2017, 11:59pm US Central**
    * - 10. U: Oct 26
      - * Programming Logic for Conditionals and Loops
          [loop #2,
-         loop invariants recipe,
          auto,
          symexe]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
