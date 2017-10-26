@@ -162,10 +162,10 @@ Schedule
        * `Homework 5 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw5>`__,
          **Deadline: November 1, 2017, 11:59pm US Central**
    * - 10. U: Oct 26
-     - * Programming Logic for Conditionals and Loops
-         [loop #2,
-         auto,
-         symexe]
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXRHQ3LW92TEY0bDg>`__
+         [`loop #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-2.logika>`__,
+         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto>`__,
+         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. T: Oct 31
      - * Sequences
