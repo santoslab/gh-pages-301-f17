@@ -175,10 +175,11 @@ Schedule
          #3 (auto),
          #3 (symexe),
          #4]
+       * Review for Exam 2
      -
    * - 11. U: Nov 2
-     - * Review for Exam 2
-     -
+     - * **No Lecture**
+     - * *Instructor Office Hours:* **Wed, Nov 1, 1-3pm**
    * - 12. T: Nov 7
      - * Exam 2
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXSWNZQzhBajdHNUk>`__,
