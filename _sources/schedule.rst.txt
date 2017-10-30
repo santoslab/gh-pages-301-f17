@@ -223,7 +223,7 @@ Schedule
    * - 15. U: Dec 7
      -
      -
-   * - 16. W: Dec 12
+   * - 16. T: Dec 12
      - * `Final Exam, Time: 2:00pm - 3:50pm <https://courses.k-state.edu/fall2017/information/xam.html>`__
          [references,
          study guides]
