@@ -168,14 +168,12 @@ Schedule
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. T: Oct 31
-     - * Sequences
-         [#1,
-         #2,
-         #3 (manual),
-         #3 (auto),
-         #3 (symexe),
-         #4]
-       * Review for Exam 2
+     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXZ3Q3VTJRMW1YcWs>`__
+         [examples sequence-*.logika:
+         `manual <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__,
+         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto>`__,
+         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__]
+       * `Review for Exam 2 <https://k-state.instructure.com/files/5009819/>`__
      -
    * - 11. U: Nov 2
      - * **No Lecture**
