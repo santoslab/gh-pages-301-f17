@@ -183,7 +183,7 @@ Schedule
      - * Exam 2
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXSWNZQzhBajdHNUk>`__,
          `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
-     - * Homework 6,
+     - * `Homework 6 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw6>`__,
          **Deadline: November 17, 2017, 11:59pm US Central**
    * - 12. U: Nov 9
      - * Functions and Procedures
