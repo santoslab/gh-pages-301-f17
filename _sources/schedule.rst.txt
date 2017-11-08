@@ -180,7 +180,7 @@ Schedule
      - * **No Lecture**
      - * *Instructor Office Hours:* **Wed, Nov 1, 1-3pm**
    * - 12. T: Nov 7
-     - * Exam 2
+     - * `Exam 2 <https://k-state.instructure.com/courses/43265/files/folder/Exams/exam2>`__
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXSWNZQzhBajdHNUk>`__,
          `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      - * `Homework 6 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw6>`__,
