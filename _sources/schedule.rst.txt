@@ -186,8 +186,8 @@ Schedule
      - * `Homework 6 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw6>`__,
          **Deadline: November 17, 2017, 11:59pm US Central**
    * - 12. U: Nov 9
-     - * Functions and Procedures
-         [examples]
+     - * `Functions and Procedures <https://drive.google.com/open?id=1-iElng_ROT3IkgzsATIVHMWS20MQ9x7w>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: procedure-*.logika]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 14
      - * Functions and Procedures
