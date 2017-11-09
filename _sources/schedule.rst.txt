@@ -192,7 +192,7 @@ Schedule
    * - 13. T: Nov 14
      - * Functions and Procedures
          [examples]
-     - * Global Invariants
+       * Global Invariants
          [examples,
          java]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
