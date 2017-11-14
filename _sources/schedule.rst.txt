@@ -190,11 +190,8 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: procedure-*.logika]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 14
-     - * Functions and Procedures
-         [examples]
-       * Global Invariants
-         [examples,
-         java]
+     - * `Functions and Procedures <https://drive.google.com/open?id=1-iElng_ROT3IkgzsATIVHMWS20MQ9x7w>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: procedure-*.logika]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. U: Nov 16
      - * Global Invariants
