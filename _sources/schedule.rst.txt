@@ -195,33 +195,33 @@ Schedule
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. U: Nov 16
      - * Global Invariants
-         [examples,
-         java]
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: global-inv-*.logika,
+         `java <https://k-state.instructure.com/courses/43265/files/folder/Examples?preview=5113364>`__]
        * Exam 2 Discussion
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - A. **Thanksgiving Break**
      -
      -
    * - 14. T: Nov 28
+     - * Exam 2 Reloaded
+     - * Homework 7,
+         **Deadline: December 10, 2017, 11:59pm US Central**
+   * - 14. U: Nov 30
      - * Recursion
          [examples: #1,
          #2,
          #3,
          #4]
-     - * Homework 7,
-         **Deadline: December 10, 2017, 11:59pm US Central**
-   * - 14. U: Nov 30
+     -
+   * - 15. T: Dec 5
      - * Termination
          [examples,
          Collatz: Logika,
          Java]
      -
-   * - 15. T: Dec 5
+   * - 15. U: Dec 7
      - * Closing Remarks
        * Review for Final Exam
-     -
-   * - 15. U: Dec 7
-     -
      -
    * - 16. T: Dec 12
      - * `Final Exam, Time: 2:00pm - 3:50pm <https://courses.k-state.edu/fall2017/information/xam.html>`__
