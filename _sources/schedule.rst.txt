@@ -23,8 +23,7 @@ Schedule
   `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
   `Z3 <https://k-state.instructure.com/users/12625/files/4717312/download?download_frd=1>`__,
   `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__,
-  `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
-  `Programming Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__
+  `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
 * `Exercises <https://k-state.instructure.com/courses/43265/files/folder/Exercises>`__
 
@@ -169,59 +168,61 @@ Schedule
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. T: Oct 31
-     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXZ3Q3VTJRMW1YcWs>`__
-         [examples sequence-*.logika:
-         `manual <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__,
-         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto>`__,
-         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__]
-       * `Review for Exam 2 <https://k-state.instructure.com/files/5009819/>`__
+     - * Sequences
+         [#1,
+         #2,
+         #3 (manual),
+         #3 (auto),
+         #3 (symexe),
+         #4]
+       * Review for Exam 2
      -
    * - 11. U: Nov 2
      - * **No Lecture**
      - * *Instructor Office Hours:* **Wed, Nov 1, 1-3pm**
    * - 12. T: Nov 7
-     - * `Exam 2 <https://k-state.instructure.com/courses/43265/files/folder/Exams/exam2>`__
+     - * Exam 2
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXSWNZQzhBajdHNUk>`__,
          `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
-     - * `Homework 6 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw6>`__,
+     - * Homework 6,
          **Deadline: November 17, 2017, 11:59pm US Central**
    * - 12. U: Nov 9
-     - * `Functions and Procedures <https://drive.google.com/open?id=1-iElng_ROT3IkgzsATIVHMWS20MQ9x7w>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: procedure-*.logika]
+     - * Functions and Procedures
+         [examples]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 14
-     - * `Functions and Procedures <https://drive.google.com/open?id=1-iElng_ROT3IkgzsATIVHMWS20MQ9x7w>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: procedure-*.logika]
+     - * Functions and Procedures
+         [examples]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. U: Nov 16
-     - * Global Invariants
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: global-inv-*.logika,
-         `java <https://k-state.instructure.com/courses/43265/files/folder/Examples?preview=5113364>`__]
+     - * Functions and Procedures
+         [examples,
+         java]
        * Exam 2 Discussion
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - A. **Thanksgiving Break**
      -
      -
    * - 14. T: Nov 28
-     - * Exam 2 Reloaded
-     - * Homework 7,
-         **Deadline: December 10, 2017, 11:59pm US Central**
-   * - 14. U: Nov 30
      - * Recursion
          [examples: #1,
          #2,
          #3,
          #4]
-     -
-   * - 15. T: Dec 5
+     - * Homework 7,
+         **Deadline: December 10, 2017, 11:59pm US Central**
+   * - 14. U: Nov 30
      - * Termination
          [examples,
          Collatz: Logika,
          Java]
      -
-   * - 15. U: Dec 7
+   * - 15. T: Dec 5
      - * Closing Remarks
        * Review for Final Exam
+     -
+   * - 15. U: Dec 7
+     -
      -
    * - 16. T: Dec 12
      - * `Final Exam, Time: 2:00pm - 3:50pm <https://courses.k-state.edu/fall2017/information/xam.html>`__
