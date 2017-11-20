@@ -204,7 +204,7 @@ Schedule
      -
    * - 14. T: Nov 28
      - * Exam 2 Reloaded
-     - * Homework 7,
+     - * `Homework 7 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw7>`__,
          **Deadline: December 10, 2017, 11:59pm US Central**
    * - 14. U: Nov 30
      - * Recursion
