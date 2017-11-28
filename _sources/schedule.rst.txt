@@ -203,7 +203,7 @@ Schedule
      -
      -
    * - 14. T: Nov 28
-     - * Exam 2 Reloaded
+     - * `Exam 2 r <https://k-state.instructure.com/courses/43265/files/folder/Exams/exam2?preview=5158111>`__
      - * `Homework 7 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw7>`__,
          **Deadline: December 10, 2017, 11:59pm US Central**
    * - 14. U: Nov 30
