@@ -207,9 +207,9 @@ Schedule
      - * `Homework 7 <https://k-state.instructure.com/courses/43265/files/folder/Homework/hw7>`__,
          **Deadline: December 10, 2017, 11:59pm US Central**
    * - 14. U: Nov 30
-     - * Recursion
-         [examples
-         (manual):
+     - * `Recursion <https://drive.google.com/open?id=1-0XiS9sw90Zlksp1XNIMg0txDAJLkKxt>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto>`__
+         (`manual <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual>`__):
          recursion-\*.logika]
      -
    * - 15. T: Dec 5
