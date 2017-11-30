@@ -208,16 +208,15 @@ Schedule
          **Deadline: December 10, 2017, 11:59pm US Central**
    * - 14. U: Nov 30
      - * Recursion
-         [examples: #1,
-         #2,
-         #3,
-         #4]
+         [examples
+         (manual):
+         recursion-\*.logika]
      -
    * - 15. T: Dec 5
      - * Termination
-         [examples,
-         Collatz: Logika,
-         Java]
+         [examples: termination-\*.logika,
+         Collatz: .logika,
+         .java]
      -
    * - 15. U: Dec 7
      - * Closing Remarks
@@ -225,8 +224,8 @@ Schedule
      -
    * - 16. T: Dec 12
      - * `Final Exam, Time: 2:00pm - 3:50pm <https://courses.k-state.edu/fall2017/information/xam.html>`__
-         [references,
-         study guides]
+         [`references <https://drive.google.com/open?id=1ZrBKlemJ3Eq9tvxt0MKV3p7pVxwo1NQm>`__,
+         `study guides <https://drive.google.com/open?id=0B3opDhlww1AXTjdXNUFTT0wzeWs>`__]
      -
 
 ----
