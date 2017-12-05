@@ -213,10 +213,10 @@ Schedule
          recursion-\*.logika]
      -
    * - 15. T: Dec 5
-     - * Termination
-         [examples: termination-\*.logika,
-         Collatz: .logika,
-         .java]
+     - * `Termination <https://drive.google.com/open?id=14CuVtfVwaI9o-Ux3IE94egOAtNnOi7DI>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe>`__: termination-\*.logika,
+         Collatz: `.logika <https://k-state.instructure.com/courses/43265/files/folder/Examples?preview=5213175>`__,
+         `.java <https://k-state.instructure.com/courses/43265/files/folder/Examples?preview=5213174>`__]
      -
    * - 15. U: Dec 7
      - * Closing Remarks
